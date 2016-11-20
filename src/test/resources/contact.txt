@@ -1,0 +1,3 @@
+user.name = bhuvan080682
+user.password = Unnathi@2017
+user.email = bhuvan080682@gmail.com
